@@ -1,1 +1,2 @@
-# jetbrains_intership_task
+Algorithm Description
+
