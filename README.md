@@ -1,3 +1,3 @@
 # Algorithm Description
 
-[Описание алгоритма](../blob/master/AlgorithmDescription.pdf)
+[Описание алгоритма](../master/AlgorithmDescription.pdf)
